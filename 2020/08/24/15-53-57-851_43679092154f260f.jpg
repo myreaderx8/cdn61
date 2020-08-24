@@ -1,0 +1,832 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+
+<!-- BEC_CUSTOM_BEGIN -->
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-101323577-1', {'cookieDomain':'auto'});
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<script>
+  // BE CLA 3
+  (function () {
+    var bec = document.createElement('script');
+    bec.type = 'text/javascript';
+    bec.async = true;
+    bec.setAttribute("data-id", "bec");
+    bec.setAttribute("org-id", "f00000000067792");
+    bec.setAttribute("domain", ".whitehatsec.com");
+    bec.setAttribute("timeout", 10 * 31 * 24 * 60 * 60 * 1000);
+    bec.setAttribute("custom-dimension0", "0");
+    bec.setAttribute("show-link-block", true);
+    bec.setAttribute("use-custom-link-block-styles", false);
+    bec.src = document.location.protocol + '//ccdn.brightedge.com/conv_v3.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(bec, s);
+  })();
+</script>
+<!-- BEC_CUSTOM_END -->
+
+	<meta charset="UTF-8">
+	<title>Page not found - WhiteHat Security</title>
+
+	<link href="//www.google-analytics.com" rel="dns-prefetch">
+
+	<link rel="icon" type="image/x-icon" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/favicon.ico" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/manifest.json">
+<link rel="mask-icon" href="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/javascripts/main.js'></script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="object" />
+	<meta property="og:title" content="Page not found - WhiteHat Security" />
+	<meta property="og:site_name" content="WhiteHat Security" />
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:title" content="Page not found - WhiteHat Security"/>
+	<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//app-lon03.marketo.com' />
+<link rel='dns-prefetch' href='//app-ab01.marketo.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="WhiteHat Security &raquo; Feed" href="https://www.whitehatsec.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WhiteHat Security &raquo; Comments Feed" href="https://www.whitehatsec.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.whitehatsec.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.whitehatsec.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google_fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C600%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='font_awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main_css-css'  href='https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/stylesheets/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='whitehatsec_font-css'  href='//use.typekit.net/hpv3wet.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lightslider-css'  href='https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/css/lightslider.css' type='text/css' media='all' />
+<script type='text/javascript' src='//app-lon03.marketo.com/js/forms2/js/forms2.js'></script>
+<script type='text/javascript' src='//app-ab01.marketo.com/js/forms2/js/forms2.min.js'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/js/lightslider.js'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/html5lightbox/html5lightbox.js'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/js/main.js'></script>
+<link rel='https://api.w.org/' href='https://www.whitehatsec.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.whitehatsec.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.whitehatsec.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.whitehatsec.com/?p=314' />
+<link rel="alternate" type="application/json+oembed" href="https://www.whitehatsec.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.whitehatsec.com%2Fprivacy-policy-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.whitehatsec.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.whitehatsec.com%2Fprivacy-policy-2%2F&#038;format=xml" />
+
+			<!-- Global Site Tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2217678-9"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-2217678-9');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K37BF4G');</script>
+	<!-- End Google Tag Manager -->
+
+<!-- BEC_CUSTOM_BEGIN -->
+<link type="text/css" rel="stylesheet" href="//cdn.b0e8.com/ix/froala_style.min.css" />
+<link type="text/css" rel="stylesheet" href="//cdn.b0e8.com/ix/be-ix-main.min.css" />
+<link type="text/css" rel="stylesheet" href="//cdn.b0e8.com/ix/be-ix-link-block.min.css" />
+<style type="text/css">
+.hero.bg-img h4{color:#fff;font-size:60px;font-weight:300;line-height:60px}.hero.bg-img p{font-weight:300}.be-ix-main{text-align:left}.be-ix-main h2{color:#353636;font-size:32px;font-weight:400;line-height:28px;margin-bottom:7px;margin-top:0}h1.page-headline{text-align:left;font-size:48px}.content-block{background:#f9f9f9;background-color:#f3f3f2}.term-all{text-align:center}.term-all .term-menu{margin:0}.term-all .term-menu .term-link{display:inline-block;margin:0 25px}.term-all .term-menu .term-link a{display:inline-block;padding:20px 10px;color:#777}.term-all .term-menu .term-link a:hover{color:#353636}.term-all .term-menu .term-link a.active{border-bottom:2px solid #337ab7;color:#353636}
+</style>
+<!-- BEC_CUSTOM_END -->
+
+
+
+
+  <link type="text/css" rel="stylesheet" href="//cdn.b0e8.com/ix/be-ix-index-cards.css" />
+  <link type="text/css" rel="stylesheet" href="//cdn.b0e8.com/ix/be-ix-pagination.css" />
+  <style type="text/css">
+  .page-all .page-teaser{background-color:#fff;border-top:5px solid #0064A3;margin:0 5px 36px;text-align:left;width:32%}.page-all .page-teaser:hover .page-content .page-headline{color:#00bfb2}.page-all .page-teaser:hover .page-content .page-readmore{color:#00bfb2}.page-all .page-teaser .page-content .page-headline{color:#0064A3;font-size:16px;font-weight:400;line-height:normal}.page-all .page-teaser .page-content .page-description{font-size:13px;line-height:normal;margin-bottom:3.5em!important}.page-all .page-teaser .page-content .page-readmore{bottom:.5em;color:#0064A3;font-size:25px}@media (max-width: 809px){.page-all:after{-webkit-flex-grow:1;-ms-flex-grow:1;flex-grow:1}}
+  </style>
+
+</head>
+<body class="page-template-default page page-id-314" id="top">
+
+
+
+<!-- Mobile menu -->
+
+<div id="mobile--overlay">
+  <div class="menuClose hide-menu" id="close-menu">
+   <span class="first"></span>
+   <span class="second"></span>
+   <span class="third"></span>
+ </div>
+    <div class="platform--mobile--menu">
+			<div class="menu-center">
+<button class="mobile--menu mobile--menu--start">PLATFORM</button>
+<div class="mobile--menu--panel">
+    <div class="panel-body">
+      <h5>WHITEHAT APPSEC PLATFORM</h5>
+      <ul class="mobile--menu--list">
+         <li><a href="https://www.whitehatsec.com/platform/software-composition-analysis/">WhiteHat SCA</a></li>
+         <li><a href="https://www.whitehatsec.com/platform/static-application-security-testing/">Sentinel Source (SAST)</a></li>
+         <li><a href="https://www.whitehatsec.com/platform/dynamic-application-security-testing/">Sentinel Dynamic (DAST)</a></li>
+         <li><a href="https://www.whitehatsec.com/platform/mobile-application-security-testing/">Sentinel Mobile (MAST)</a></li>
+         <li><a href="https://www.whitehatsec.com/platform/eLearning/">WhiteHat eLearning</a></li>
+    </ul>
+    <h5 class="platform-developer">DEVELOPER TOOLS</h5>
+    <ul class="mobile--menu--list">
+       <li><a href="https://www.whitehatsec.com/platform/scout/">WhiteHat Scout</a></li>
+  </ul>
+   </div>
+</div>
+
+<button class="mobile--menu">Solutions</button>
+  <div class="mobile--menu--panel">
+      <div class="panel-body">
+          <ul class="mobile--menu--list">
+            <h5>BY ROLE</h5>
+            <li><a href="https://www.whitehatsec.com/platform/roles/executives/">Executives</a></li>
+            <!-- <li><a href="https://www.whitehatsec.com/platform/roles/it-security/">IT Security</a></li> -->
+            <li><a href="https://www.whitehatsec.com/platform/roles/developers/">Developers</a></li>
+          </ul>
+          <ul class="mobile--menu--list">
+             <h5 class="by-industry">BY IMPLEMENTATION</h5>
+             <li><a href="https://www.whitehatsec.com/platform/industries/financial-services/">Financial Services</a></li>
+             <li><a href="https://www.whitehatsec.com/platform/industries/retail/">Retail / E-Commerce</a></li>
+             <li><a href="https://www.whitehatsec.com/platform/industries/healthcare/">Healthcare</a></li>
+            <li><a href="https://www.whitehatsec.com/platform/industries/software-technology/">Software & Technology</a></li>
+            <!-- <li><a href="https://www.whitehatsec.com/platform/industries/government/">Government</a></li> -->
+         </ul>
+         <ul class="mobile--menu--list">
+           <h5 class="by-need">BY NEED</h5>
+           <li><a href="https://www.whitehatsec.com/platform/solutions/web-application-security/">Web Application Security</a></li>
+           <li><a href="https://www.whitehatsec.com/platform/solutions/devsecops/">DevSecOps</a></li>
+           <li><a href="https://www.whitehatsec.com/platform/static-application-security-testing/microservices/">Microservices</a></li>
+           <li><a href="https://www.whitehatsec.com/platform/solutions/risk-assessment/">Risk Assessment</a></li>
+           <li><a href="https://www.whitehatsec.com/platform/solutions/compliance/">Compliance</a></li>
+           <li><a href="https://www.whitehatsec.com/platform/solutions/runtime-application-self-protection/">Runtime Application Self-Protection</a></li>
+          <li><a href="https://www.whitehatsec.com/platform/solutions/remediation/">Vulnerability Remediation</a></li>
+      </ul>
+   </ul>
+     </div>
+ </div>
+
+<button class="mobile--menu">Customers</button>
+    <div class="mobile--menu--panel">
+        <div class="panel-body">
+          <ul class="mobile--menu--list">
+           <li><a href="https://www.whitehatsec.com/customers/case-studies/">Case Studies</a></li>
+           <li><a href="https://www.whitehatsec.com/customers/gartner-peer-insights/">Gartner Peer Insights</a></li>
+           <li><a href="https://whitehatsecuritycommunity.force.com">Customer Portal Login</a></li>
+        </ul>
+        </div>
+   </div>
+
+<button class="mobile--menu">Partners</button>
+    <div class="mobile--menu--panel">
+         <div class="panel-body">
+           <ul class="mobile--menu--list">
+             <li><a href="https://www.whitehatsec.com/partners/solution-providers/">Solution Providers</a></li>
+             <li><a href="https://www.whitehatsec.com/partners/technology-partners/">Technology Partners</a></li>
+             <li><a href="https://whitehatsec.webinfinity.com">Partner Portal Login</a></li>
+           </ul>
+         </div>
+    </div>
+
+<button class="mobile--menu">Resources</button>
+     <div class="mobile--menu--panel">
+          <div class="panel-body">
+            <ul class="mobile--menu--list">
+              <li><a href="https://www.whitehatsec.com/resources-category/data-sheets/">Datasheets</a></li>
+              <li><a href="https://www.whitehatsec.com/resources-category/solution-briefs/">Solution Briefs</a></li>
+              <li><a href="https://www.whitehatsec.com/resources-category/white-papers/">Whitepapers</a></li>
+              <li><a href="https://www.whitehatsec.com/resources-category/threat-reports/">Threat Reports</a></li>
+							<li><a href="https://www.whitehatsec.com/events">Events</a></li>
+							<li><a href="https://www.whitehatsec.com/events-category/upcoming-webinars/">Upcoming Webinars</a></li>
+							<li><a href="https://www.whitehatsec.com/resources-category/on-demand-webinars/">On-Demand Webinars</a></li>
+              <li><a href="https://www.whitehatsec.com/resources-category/videos/">Videos</a></li>
+              <li><a href="https://www.whitehatsec.com/resources-category/infographics/">Infographics</a></li>
+           </ul>
+         </div>
+     </div>
+
+<button class="mobile--menu">Company</button>
+      <div class="mobile--menu--panel">
+           <div class="panel-body">
+             <ul class="mobile--menu--list">
+              <li><a href="https://www.whitehatsec.com/company/">About Us</a></li>
+              <li><a href="https://www.whitehatsec.com/company/leadership/">Leadership</a></li>
+              <li><a href="https://www.whitehatsec.com/company/news/">In the News</a></li>
+              <li><a href="https://www.whitehatsec.com/company/careers/">Careers</a></li>
+           </ul>
+            </div>
+      </div>
+</div>
+<script>
+$(document).ready(function(){
+  $(".logins-info").click(function(){
+    $("#mobile--logins-container").toggleClass("mobile--contact--hide");
+    $("#search-parent-container").addClass("search--hide");
+  });
+  $(".search--display").click(function(){
+    $("#search-parent-container").toggleClass("search--hide");
+    $("#mobile--logins-container").addClass("mobile--contact--hide");
+  });
+});
+</script>
+    <ul class="mobile--social">
+      <li class="logins-info"><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/icons/contact-icon.svg');"></li>
+      <li><a href="tel:1-408-343-8300"><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/icons/tel-icon.svg');"></a></li>
+      <li class="search--display"><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/icons/search-icon.svg');"></li>
+    </ul>
+    <div id="display--social">
+       <div id="mobile--logins-container" class="mobile--contact--hide">
+         <h5>LOGIN</h5>
+           <ul id="mobile--logins--list">
+             <li><a href="https://whitehatsecuritycommunity.force.com">Customer Portal</a></li>
+             <li><a href="https://whitehatsec.webinfinity.com/">Partner Portal</a></li>
+             <li><a href="https://myscan.whitehatsec.com/login">Scout Login</a></li>
+             <li><a href="https://sentinel.whitehatsec.com/gateway/login.html">Sentinel Login</a></li>
+             <li><a href="https://sentinel.whitehatsec.eu/gateway/login.html">Seninel Login - EU</a></li>
+          </ul>
+       </div>
+          <ul id="search-parent-container" class="search--hide">
+            <li class="search-mobile-container">
+              <div class="site-search">
+                  <form method="get" action="/en-us/search/" style="border: 1px solid #0098FF;width: 297px;border-radius:4px">
+                      <input type="search"  placeholder="" name="q" style="color:#FFF!important;border:none;padding-left:15px;width:200px;height: 38px;background-color:transparent" autofocus/>
+                      <button type="submit" style="margin-left:-4px;border:none;height:38.5px;width:94px;background-color: rgba(0,152,255,0.25);color: rgba(0,152,255,0.25);"><i class="fa fa-search" style="margin-right:5px"></i>Search</button>
+                      <!--input type="submit" value="Submit" style="position: absolute;top: 0;right: 0;width: 50px;height: 40px;padding: 0;padding-top: 40px;border: 0 none;background: transparent none;overflow: hidden;"-->
+                  </form>
+              </div>
+            </li>
+          </ul>
+
+    </div>
+    <div class="wh-mobile-free-demo">
+       <button onclick="window.location.href = 'https://www.whitehatsec.com/info/security-check/'" class="wh-mobile-free-demo__link">Free Demo</button>
+    </div>
+
+</div>
+
+
+</div>
+<style>
+.mobile-first, .mobile-second, .mobile-third {
+    background: #333;
+}
+
+</style>
+<!-- End of the Mobile -->
+<header class="mobile--nav">
+      <a href="https://www.whitehatsec.com/"><img class="mobile--color" src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/nav-bar/logo-navbar-color.svg"/></a>
+    <div class="menuToggle" id="open-menu">
+   <input type="checkbox" />
+   <span class="mobile-first"></span>
+   <span class="mobile-second"></span>
+   <span class="mobile-third"></span>
+ </div>
+
+    <!--img src="images/burger-menu.svg" alt="menu" class="menu-btn" id="open-menu"-->
+
+</header>
+<div id="wrapper">
+ <div class="nav-menu__desktop sub-page" id="nav--bar" style="position: fixed!important;top: 0;width: 100%;background-color: #333;z-index: 9999;">
+ <!--p style="position:relative;cursor:pointer!important;"-->
+  <!--div style="display:flex;position: fixed;top: 0;left: 0;right: 0;z-index:99999"-->
+  <div class="nav-menu nav-bar__desktop">
+    <div class="nav-bar__logo">
+       <a href="https://www.whitehatsec.com/"><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/nav-bar/logo-navbar-white.svg"/></a>
+    </div>
+
+  <div class="clearfix search-block__container">
+
+
+
+  <ul id="utility-nav" class="utility-nav">
+      <li class="search-container" style="display:none!important">
+        <div class="site-search site-search-container">
+            <form method="get" action="/en-us/search/">
+                <input type="search"  placeholder="Search" name="q" class="search-box" style="border: 1px solid #FFFFFF;" autofocus/>
+                <span class="search-close search-block__close" style="left: 100%;position: absolute;top: 0px;font-weight: 600;color: #BCE6FF;height: 5px;font-size: 16px;"><img style="max-width:10px;height:10px" src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/icons/icon-close.svg"/></span>
+                <!--input type="submit" value="Submit" style="position: absolute;top: 0;right: 0;width: 50px;height: 40px;padding: 0;padding-top: 40px;border: 0 none;background: transparent none;overflow: hidden;"-->
+            </form>
+        </div>
+      </li>
+      <li class="search-icon"><i class="fa fa-search" style="font-size:16px"></i></li>
+      <li class="logins">LOGIN <i class="fa fa-chevron-right" id="login-icon"></i>
+        <ul class="platform--logins-container">
+          <li><a href="https://whitehatsecuritycommunity.force.com">Customer Portal</a></li>
+          <li><a href="https://whitehatsec.webinfinity.com/">Partner Portal</a></li>
+          <li><a href="https://myscan.whitehatsec.com/login">Scout Login</a></li>
+          <li><a href="https://sentinel.whitehatsec.com/gateway/login.html">Sentinel Login</a></li>
+          <li><a href="https://sentinel.whitehatsec.eu/gateway/login.html">Seninel Login - EU</a></li>
+        </ul>
+      </li>
+      <li  class="contact"><a class="contact--link" href="https://www.whitehatsec.com/company/contact/">CONTACT</a></li>
+      <li  class="blog"><a class="blog--link" href="https://www.whitehatsec.com/blog/">BLOG</a></li>
+  </ul>
+  <ul class="products-menu-container">
+      <li class="product nav-product__list">PLATFORM
+          <div class="products-menu">
+            <hr style="width: 90%;margin-top: 0px;"/>
+              <div class="container" id="product--menu--container">
+                  <div class="products-sub-menu">
+                     <ul>
+                        <h5>WHITEHAT APPSEC PLATFORM</h5>
+                        <li><a href="https://www.whitehatsec.com/platform/software-composition-analysis/">WhiteHat SCA</a></li>
+                        <li><a href="https://www.whitehatsec.com/platform/static-application-security-testing/">Sentinel Source (SAST)</a></li>
+                        <li><a href="https://www.whitehatsec.com/platform/dynamic-application-security-testing/">Sentinel Dynamic (DAST)</a></li>
+                        <li><a href="https://www.whitehatsec.com/platform/mobile-application-security-testing/">Sentinel Mobile (MAST)</a></li>
+                        <li><a href="https://www.whitehatsec.com/platform/eLearning/">WhiteHat eLearning</a></li>
+                    </ul>
+                    <ul style="margin-left:120px">
+                       <h5>DEVELOPER TOOLS</h5>
+                       <li><a href="https://www.whitehatsec.com/platform/scout/">WhiteHat Scout</a></li>
+                   </ul>
+                   <!-- <ul>
+                     <li><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/nav-bar/topnav-card-webinar@2x.jpg" style="width:300px"/></li>
+                     <li><a class="sub-menu_link">DOWNLOAD THE REPORT</a></li>
+                   </ul> -->
+               </div>
+         </div>
+     </div>
+    </li>
+      <li class="solutions nav-product__list">SOLUTIONS
+        <div class="solutions-menu">
+          <hr style="width: 90%;margin-top: 0px;"/>
+            <div class="container" id="menu--container">
+                <div class="solutions-sub-menu">
+                    <ul style="width:100px">
+                    <h5>BY ROLE</h5>
+                    <li><a href="https://www.whitehatsec.com/platform/roles/executives/">Executives</a></li>
+                    <!-- <li><a href="https://www.whitehatsec.com/platform/roles/it-security/">IT Security</a></li> -->
+                    <li><a href="https://www.whitehatsec.com/platform/roles/developers/">Developers</a></li>
+                  </ul>
+                  <ul style="width:150px">
+                     <h5>BY INDUSTRY</h5>
+                     <li><a href="https://www.whitehatsec.com/platform/industries/financial-services/">Financial Services</a></li>
+                     <li><a href="https://www.whitehatsec.com/platform/industries/retail/">Retail / E-Commerce</a></li>
+                     <li><a href="https://www.whitehatsec.com/platform/industries/healthcare/">Healthcare</a></li>
+                    <li><a href="https://www.whitehatsec.com/platform/industries/software-technology/">Software & Technology</a></li>
+                    <!-- <li><a href="https://www.whitehatsec.com/platform/industries/government/">Government</a></li> -->
+                 </ul>
+                 <ul>
+                   <h5>BY NEED</h5>
+                   <li><a href="https://www.whitehatsec.com/platform/solutions/web-application-security/">Web Application Security</a></li>
+                   <li><a href="https://www.whitehatsec.com/platform/solutions/devsecops/">DevSecOps</a></li>
+                   <li><a href="https://www.whitehatsec.com/platform/static-application-security-testing/microservices/">Microservices</a></li>
+                   <li><a href="https://www.whitehatsec.com/platform/solutions/risk-assessment/">Risk Assessment</a></li>
+                   <li><a href="https://www.whitehatsec.com/platform/solutions/compliance/">Compliance</a></li>
+                   <li><a href="https://www.whitehatsec.com/platform/solutions/runtime-application-self-protection/">Runtime Application Self-Protection</a></li>
+                  <li><a href="https://www.whitehatsec.com/platform/solutions/remediation/">Vulnerability Remediation</a></li>
+              </ul>
+       <!--ul>
+         <li><img src="/assets/images/nav-bar/topnav-card-webinar@2x.jpg" style="width:300px"/></li>
+         <li class="sub-menu_link">register now</li>
+       </ul-->
+     </div>
+     </div>
+   </div>
+
+      </li>
+      <li class="customer nav-product__list">CUSTOMERS
+        <div class="customer-menu">
+          <hr style="width: 90%;margin-top: 0px;"/>
+            <div class="container" id="menu--container">
+                <div class="customer-sub-menu">
+                  <ul>
+                  <li><a href="https://www.whitehatsec.com/customers/case-studies/">Case Studies</a></li>
+                  <li><a href="https://www.whitehatsec.com/customers/gartner-peer-insights/">Gartner Peer Insights</a></li>
+              </ul>
+       <!--ul>
+         <li><img src="/assets/images/nav-bar/topnav-card-webinar@2x.jpg" style="width:300px"/></li>
+         <li class="sub-menu_link">register now</li>
+       </ul-->
+     </div>
+     </div>
+   </div>
+      </li>
+      <li class="partners nav-product__list">PARTNERS
+           <div class="partners-menu">
+              <hr style="width: 90%;margin-top: 0px;"/>
+                 <div class="container" id="menu--container">
+                     <div class="partners-sub-menu">
+                       <ul>
+                         <li><a href="https://www.whitehatsec.com/partners/technology-partners/">Technology Partners</a></li>
+ 					               <li><a href="https://www.whitehatsec.com/partners/solution-providers/">Solution Providers</a></li>
+                        <li><a href="https://whitehatsec.webinfinity.com">Partner Portal Login</a></li>
+                      </ul>
+                  <!--ul>
+                    <li><img src="/assets/images/nav-bar/topnav-card-webinar@2x.jpg" style="width:300px"/></li>
+                    <li class="sub-menu_link">register now</li>
+                 </ul-->
+     </div>
+     </div>
+   </div>
+
+      </li>
+      <li class="resources nav-product__list">RESOURCES
+        <div class="resources-menu">
+           <hr style="width: 90%;margin-top: 0px;"/>
+              <div class="container" id="menu--container">
+                  <div class="resources-sub-menu">
+                    <ul>
+                     <li><a href="https://www.whitehatsec.com/resources-category/data-sheets/">Datasheets</a></li>
+                     <li><a href="https://www.whitehatsec.com/resources-category/solution-briefs/">Solution Briefs</a></li>
+                     <li><a href="https://www.whitehatsec.com/resources-category/white-papers/">Whitepapers</a></li>
+                     <li><a href="https://www.whitehatsec.com/resources-category/threat-reports/">Threat Reports</a></li>
+										 <li><a href="https://www.whitehatsec.com/events">Events</a></li>
+										 <li><a href="https://www.whitehatsec.com/events-category/upcoming-webinars/">Upcoming Webinars</a></li>
+										 <li><a href="https://www.whitehatsec.com/resources-category/on-demand-webinars/">On-Demand Webinars</a></li>
+                     <li><a href="https://www.whitehatsec.com/resources-category/videos/">Videos</a></li>
+                     <li><a href="https://www.whitehatsec.com/resources-category/infographics/">Infographics</a></li>
+                  </ul>
+               <!--ul>
+                 <li><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/nav-bar/topnav-card-webinar@2x.jpg" style="width:300px"/></li>
+                 <li class="sub-menu_link">register now</li>
+              </ul-->
+       </div>
+       </div>
+       </div>
+
+
+
+      </li>
+      <li class="about nav-product__list" style="padding-right:0px">COMPANY
+
+        <div class="about-menu">
+           <hr style="width: 90%;margin-top: 0px;"/>
+              <div class="container" id="menu--container">
+                  <div class="about-sub-menu">
+                    <ul>
+                       <li><a href="https://www.whitehatsec.com/company/">About Us</a></li>
+                       <li><a href="https://www.whitehatsec.com/company/leadership/">Leadership</a></li>
+                       <li><a href="https://www.whitehatsec.com/company/careers/">Careers</a></li>
+                       <li><a href="https://www.whitehatsec.com/news/">In the News</a></li>
+                       <li><a href="https://www.whitehatsec.com/company/threat-research-center/">Threat Research Center</a></li>
+                    </ul>
+                   <!--ul>
+                     <li><img src="/assets/images/nav-bar/topnav-card-webinar@2x.jpg" style="width:300px"/></li>
+                     <li class="sub-menu_link">register now</li>
+                   </ul-->
+               </div>
+            </div>
+       </div>
+
+      </li>
+    </ul>
+
+
+  </div>
+  <div class="wh-free-demo">
+     <!--a href="https://www.whitehatsec.com/info/security-check/" class="wh-free-demo__link">Free Demo</a-->
+		 <a href="https://www.whitehatsec.com/info/security-check/"><button type="button" class="wh-free-demo__link">Free Demo</button></a>
+  </div>
+  </div>
+
+  </div>
+  </div>
+  <div class="nav-fix"></div>
+  <script>
+  var acc = document.getElementsByClassName("mobile--menu");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+  this.classList.toggle("mobile--menu--active");
+  var panel = this.nextElementSibling;
+  if (panel.style.maxHeight){
+    panel.style.maxHeight = null;
+  } else {
+    panel.style.maxHeight = panel.scrollHeight + "px";
+  }
+  });
+  }
+
+
+  //Let's Create the JavaScript Part.
+
+  const overlay = document.getElementById('overlay');
+  const closeMenu = document.getElementById('close-menu');
+  const open_menu = document.getElementById('open-menu');
+
+  document.getElementById('open-menu') .addEventListener('click', function() {
+
+  //overlay.classList.add('show-menu');
+  //open_menu.classList.add('hide-menu');
+  document.getElementById('mobile--overlay').classList.add('show--mobile--overlay');
+  document.getElementById('close-menu').classList.remove('hide-menu');
+  //document.getElementsByClassName("mobile--menu").classList.remove('mobile--menu--active');
+
+
+  });
+
+    document.getElementById('close-menu').addEventListener('click', function(){
+    document.getElementById('mobile--overlay').classList.remove('show--mobile--overlay');
+    document.getElementById('close-menu').classList.add('hide-menu');
+    //document.getElementsByClassName("mobile--menu").classList.remove('mobile--menu--active');
+      //$(".mobile--menu").remove("mobile--menu--active");
+  //overlay.classList.remove('show-menu')
+  //open_menu.classList.remove('hide-menu');
+  })
+  </script>
+  <script>
+  var acc = document.getElementsByClassName("mobile--platform");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("mobile--active");
+      var panel = this.nextElementSibling;
+      if (panel.style.maxHeight){
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      }
+    });
+  }
+  </script>
+  <!-- Mobile Menu -->
+
+
+
+
+  <!--End of Mobile menu -->
+  <!-- mobile -->
+
+
+  <!--end -->
+
+<!--div class="header-height"></div-->
+
+<main class="main-content">
+
+	<section class="content-404 content-block content-block-1col bg-image" style="background-image: url(https://www.whitehatsec.com/wp-content/uploads/2016/02/404-hero-1.jpg);" >
+
+
+		<div class="container-fluid ">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 content-container">
+					<div class="valign-content">
+
+
+
+							<div class="editor-content">
+								<h1 style="text-align: center;">Page not found</h1>
+<p style="text-align: center;"><span class="s1">Can&#8217;t find what you&#8217;re looking for? Try these options:</span></p>
+<p class="p1" style="text-align: center;"><a class="link-arrow" href="http://www.whitehatsec.com/search/">Search</a>     <a class="link-arrow" href="http://www.whitehatsec.com/products/">PRODUCTS</a>     <a class="link-arrow" href="http://www.whitehatsec.com/resources/">RESOURCES</a> </p>
+							</div>
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+	</section>
+
+</main>
+<div class="cookie-policy-wrapper">
+	<div class="container-fluid">
+<div class="cookie-content">
+	<h4>Cookie Use</h4>
+	<p>We use cookies to store information on your computer that are either essential to make our site work or help us personalize and improve the user experience. By using this site, you consent to the placement of these cookies. To learn more, see our <a href="https://www.whitehatsec.com/cookie-policy/">Cookie Policy</a>.</p>
+	</div>
+	<div class="cookie-btn">Agree</div>
+</div>
+	</div>
+	<!-- Mobile footer Menu -->
+	<footer class="footer-container footer-container__mobile">
+	  <div class="container">
+	    <div class="row">
+	      <div class="col-md-12 footer-mobile__logo">
+	        <img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/footer-logo/whitehat-footer-logo.png" style="max-width:170px"/>
+	      </div>
+	      <div class="col-md-12 footer__rights">
+	        <ul>
+	           <li><a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/linkedin.svg"/></a></li>
+	           <li><a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/twitter.svg"/></a></li>
+	           <li><a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/facebook.svg"/></a></li>
+	           <li style="margin-right:0px"><a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/youtube.svg"/></a></li>
+	       </ul>
+	    </div>
+	    <div class="col-md-12 footer__rights">
+	       <p>© 2019 WhiteHat Security, Inc. All Rights Reserved.</p>
+	    </div>
+	 </div>
+	</div>
+	</footer>
+	<!--End of mobile footer Menu -->
+
+	<!-- Delete -->
+
+	<footer id="footer" class="py-5 px-3 footer-container__desktop">
+	      <div class="container-fluid2 footer-product__lists">
+	        <div class="row pb-5 pb-4">
+	          <div class="col-12 col-md-4 text-center text-md-left mb-3 mb-md-0" id="socialContent">
+							<a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/linkedin.svg"/></a>
+							<a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/twitter.svg"/></a>
+							<a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/facebook.svg"/></a>
+							<a href=""><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/social/youtube.svg"/></a>
+	          </div>
+	          <div class="col-12 col-md-8 text-center text-md-right" id="contactContent">
+	            <span id="phone"><img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/icons/phone.svg"/> (408) 343 - 8300 </span> <img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/icons/map-pin.svg"/> 1741 Technology Dr. #300 San Jose, CA 95110
+	          </div>
+	        </div>
+	        <div class="row text-center text-md-left pb-4">
+	          <div class="col-md-2 mb-3 mb-md-0" id="footerCol1">
+							<h5>PLATFORM</h5>
+								 <ul>
+									 <li><a href="https://www.whitehatsec.com/platform/static-application-security-testing/software-composition-analysis/">WhiteHat SCA</a></li>
+									 <li><a href="https://www.whitehatsec.com/platform/static-application-security-testing/">Sentinel Source (SAST)</a></li>
+									 <li><a href="https://www.whitehatsec.com/platform/dynamic-application-security-testing/">Sentinel Dynamic (DAST)</a></li>
+									 <li><a href="https://www.whitehatsec.com/platform/mobile-application-security-testing/">Sentinel Mobile (MAST)</a></li>
+									 <li><a href="https://www.whitehatsec.com/platform/computer-based-training/">WhiteHat eLearning</a></li>
+							 </ul>
+	          </div>
+	          <div class="col-md-2 mb-3 mb-md-0" id="footerCol2">
+							<h5>SOLUTIONS</h5>
+	               <ul>
+	 								<li><a href="https://www.whitehatsec.com/products/industries/financial-services/">Financial Services</a></li>
+	                  <li><a href="https://www.whitehatsec.com/products/industries/retail/">Retail</a></li>
+	                  <li><a href="https://www.whitehatsec.com/products/industries/healthcare/">Healthcare</a></li>
+	                  <li><a href="https://www.whitehatsec.com/products/industries/software-technology">Software & Technology</a></li>
+	                  <li><a href="https://www.whitehatsec.com/platform/solutions/devsecops/">DevSecOps</a></li>
+										<li><a href="https://www.whitehatsec.com/platform/solutions/risk-assessment/">Risk Assessment</a></li>
+	                  <li><a href="https://www.whitehatsec.com/platform/solutions/compliance/">Compliance</a></li>
+	                  <li><a href="https://www.whitehatsec.com/platform/solutions/remediation/">Vulnerability Remediation</a></li>
+	          </ul>
+	          </div>
+	          <div class="col-md-2 mb-3 mb-md-0" id="footerCol3">
+							<h5>CUSTOMERS</h5>
+			          <ul>
+			           <li><a href="https://www.whitehatsec.com/customers/case-studies/">Case Studies</a></li>
+			           <li><a href="https://www.whitehatsec.com/customers/gartner-peer-insights/">Gartner Peer Insights</a></li>
+			           <li><a href="https://whitehatsecuritycommunity.force.com">Customer Portal Login</a></li>
+			        </ul>
+			        <h5 style="margin-top:42px">PARTNERS</h5>
+			         <ul>
+								 <li><a href="https://www.whitehatsec.com/partners/solution-providers/">Solution Providers</a></li>
+			           <li><a href="https://www.whitehatsec.com/partners/technology-partners/">Technology Partners</a></li>
+			           <li><a href="https://whitehatsec.webinfinity.com">Partner Portal Login</a></li>
+			         </ul>
+	          </div>
+	          <div class="col-md-2 mb-3 mb-md-0" id="footerCol4">
+							<h5>RESOURCES</h5>
+								<ul>
+									<li><a href="https://www.whitehatsec.com/resources-category/data-sheets/">Datasheets</a></li>
+									<li><a href="https://www.whitehatsec.com/resources-category/solution-briefs/">Solution Briefs</a></li>
+									<li><a href="https://www.whitehatsec.com/resources-category/white-papers/">Whitepapers</a></li>
+									<li><a href="https://www.whitehatsec.com/resources-category/threat-reports/">Threat Reports</a></li>
+									<li><a href="https://www.whitehatsec.com/events/">Events</a></li>
+									<li><a href="https://www.whitehatsec.com/events-category/upcoming-webinars/">Upcoming Webinars</a></li>
+									<li><a href="https://www.whitehatsec.com/resources-category/on-demand-webinars/">On-Demand Webinars</a></li>
+									<li><a href="https://www.whitehatsec.com/resources-category/videos/">Videos</a></li>
+									<li><a href="https://www.whitehatsec.com/resources-category/infographics/">Infographics</a></li>
+							 </ul>
+	          </div>
+	          <div class="col-md-2 mb-3 mb-md-0" id="footerCol5">
+							<h5>COMPANY</h5>
+								<ul>
+									<li><a href="https://www.whitehatsec.com/company/">About Us</a></li>
+								 <li><a href="https://www.whitehatsec.com/company/leadership/">Leadership</a></li>
+								 <li><a href="https://www.whitehatsec.com/company/careers/">Careers</a></li>
+								 <li><a href="https://www.whitehatsec.com/news/">In the News</a></li>
+								 <li><a href="https://www.whitehatsec.com/company/threat-research-center/">Threat Research Center</a></li>
+							</ul>
+							<h5 style="margin-top:42px">LOGIN</h5>
+							 <ul>
+								 <li><a href="https://sentinel.whitehatsec.com/gateway/login.html">Sentinel Login</a></li>
+								 <li><a href="https://sentinel.whitehatsec.eu/gateway/login.html">Sentinel Login (EU)</a></li>
+								 <li><a href="https://myscan.whitehatsec.com/login">SCOUT Login</a></li>
+							 </ul>
+	          </div>
+	          <div class="col-md-2" id="footerCol6">
+							<ul>
+								<li><a href="https://www.whitehatsec.com/company/contact/">Contact Us</a></li>
+								<li><a href="https://www.whitehatsec.com/blog/">Blog</a></li>
+								<li><a href="https://www.whitehatsec.com/glossary/">Glossary</a></li>
+								<li><a href="https://www.whitehatsec.com/trending/">Trending</a></li>
+								<li><a href="https://www.whitehatsec.com/faq/">FAQ</a></li>
+
+							</ul>
+						 <!--h5 style="margin-top:42px">RELATED LINKS</h5-->
+							<!--ul class="related__content">
+								<li>WhiteHat Sentinel Mobile</li>
+								<li>Static Application Security Testing: Challenges and Benefits</li>
+								<li>How to beat hackers at their own game? Think like a hacker.</li>
+								<li>Top 10 Vulnerabilities in Mobile Applications</li>
+								<li>HIPAA Security Risk Assessment Requirements</li>
+							</ul-->
+								<div class="be-ix-link-block"></div>
+
+	          </div>
+	        </div>
+	        <!--div class="row">
+	          <div class="col-12 col-md-4 text-center text-md-left mb-3 mb-md-0" id="footerLogo">
+	            <img src="/rs/675-YBI-674/images/whitehat-footer-logo.png">
+	            <p>
+	              © 2019 WhiteHat Security, Inc. All Rights Reserved.
+	            </p>
+	          </div>
+	          <div class="col-12 col-md-8 text-center text-md-right" id="footerLegal">
+	            <a href="#" class="footerLink">Terms and Conditions</a> <a href="#" class="footerLink">Privacy Policy</a> <a href="#" class="footerLink">GDPR Compliance</a> <a href="#">Manage Communications Preferences</a>
+	          </div>
+	        </div-->
+
+					<div class="footer-ls__rights">
+						<div class="row">
+			        <div class="col-md-12 footer__logo">
+			          <img src="https://www.whitehatsec.com/wp-content/themes/whitehatsec_ntt/assets/images/footer-logo/whitehat-footer-logo.png" style="max-width:144px"/>
+			        </div>
+			      </div>
+			      <div class="row">
+			        <div class="col-md-6 copyright">© 2019 WhiteHat Security, Inc. All Rights Reserved.</div>
+			        <div class="col-md-6">
+			           <ul class="legal-container">
+			             <li><a href="https://www.whitehatsec.com/terms-conditions/">Terms & Conditions</a></li>
+			             <li><a href="https://www.whitehatsec.com/privacy-policy-2/">Privacy Policy</a></li>
+			             <li><a href="https://www.whitehatsec.com/gdpr-compliance/">GDPR Compliance</a></li>
+			             <li><a href="https://info.whitehatsec.com/Subscription-Management.html">Manage Communications Preferences</a></li>
+			          </ul>
+			        </div>
+
+			      </div>
+			    </div>
+
+	      </div>
+	    </footer>
+
+
+	<!--end -->
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0047/0793.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/plugins/marketo-forms-and-tracking/js/munchkin.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/bootstrap.js?ver=3.3.1'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/equal-heights.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/jquery.flexverticalcenter.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/slick.min.js?ver=1.5.7'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/jquery.smartmenus.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/jquery.smartmenus.bootstrap.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/jquery.flexslider.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-content/themes/whitehat/javascripts/main.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://www.whitehatsec.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-569fc7f21afdb12c" async="async"></script>
+
+</body>
+</html>
